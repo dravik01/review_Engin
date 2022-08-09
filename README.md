@@ -1,0 +1,2 @@
+# Automatic engine
+I have done an automatic engine that makes actions as per client requirements on any site. I used chrome driver for access chrome application on the system and python's selenium API for automatic review. Our system provides features like automatic login into the site and searches for particular things and done actions as per requirement. 
